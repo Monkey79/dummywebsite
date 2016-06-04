@@ -1,5 +1,5 @@
 #EcmaMonkey's public repository
-## Website made during my course "Web Design" in <a href="https://www.coderhouse.com/" targe="-blank">Coderhouse</a>
+## Website made during my course "Web Design" in <a href="https://www.coderhouse.com/" targe="_blank">Coderhouse</a>
 
 **Made with:**
 - Html5.
